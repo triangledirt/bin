@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd
+ln -sf bin/emacs .emacs
+ln -sf bin/screenrc .screenrc

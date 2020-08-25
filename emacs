@@ -1,0 +1,7 @@
+(global-set-key "\C-b" 'electric-buffer-list)
+(global-set-key "\C-f" 'find-file)
+(global-set-key "\C-j" 'indent-region)
+(global-set-key "\C-t" 'goto-line)
+(global-set-key "\C-v" 'other-window)
+(global-set-key "\M-#" 'tags-query-replace)
+(global-set-key "\M-s" 'tags-search)
