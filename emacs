@@ -5,3 +5,9 @@
 (global-set-key "\C-v" 'other-window)
 (global-set-key "\M-#" 'tags-query-replace)
 (global-set-key "\M-s" 'tags-search)
+
+(setq inhibit-startup-message 1)
+(menu-bar-mode 0)
+(setq transient-mark-mode t)
+(global-font-lock-mode 0)
+(normal-erase-is-backspace-mode 0)
